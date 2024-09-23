@@ -1,0 +1,45 @@
+.work {
+  display: flex;
+  justify-content: center;
+  /* border: 1px solid red; */
+  margin: 1px;
+  flex-wrap: wrap;
+  margin-bottom: 50px;
+}
+.arow {
+  display: flex;
+  /* margin: auto; */
+  justify-content: center;
+  /* border: 1px solid white; */
+}
+.page-work p {
+  font-size: 10.75px;
+}
+
+.page-work {
+  text-align: center;
+  margin-top: 100px;
+  /* margin-bottom: 50%; */
+}
+
+.img-work {
+  width: 562.22px;
+  height: 423.2px;
+
+  /* margin: auto; */
+}
+.work-page {
+  width: 562.22px;
+  height: 423.2px;
+  /* display: flex; */
+  justify-content: center;
+}
+.work-page img {
+  align-items: flex-end;
+}
+
+.img-work img {
+  width: 562.22px;
+  height: 423.2px;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,42 @@
+.full-body {
+  border: 1px solid black;
+  color: white;
+  font-family: "Raleway", sans-serif;
+  background-size: cover;
+  flex-wrap: wrap;
+  background-image: url("./img/black-smooth-wall-textured-background.jpg");
+}
+
+.full-body {
+  @media (max-width: 475px) {
+    .full-body {
+      min-width: 475px;
+    }
+  }
+
+  @media (max-width: 640px) {
+    .full-body {
+      min-width: 640px;
+    }
+  }
+  @media (max-width: 768px) {
+    .full-body {
+      min-width: 768px;
+    }
+  }
+  @media (max-width: 1024px) {
+    .full-body {
+      min-width: 1024px;
+    }
+  }
+  @media (max-width: 1280px) {
+    .full-body {
+      min-width: 1280px;
+    }
+  }
+  @media (max-width: 1536px) {
+    .full-body {
+      min-width: 1536px;
+    }
+  }
+}

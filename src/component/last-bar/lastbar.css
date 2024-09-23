@@ -1,0 +1,128 @@
+.lastbar-top {
+  max-width: 933.96px;
+  min-height: 305.69px;
+  display: flex;
+  border-radius: 30.72px;
+  margin: auto;
+  background-color: #2b2b2b;
+  margin-top: 10%;
+  margin-bottom: 8%;
+  /* border: 1px solid white; */
+
+  /* border: 1px solid black; */
+}
+.lastbar-item {
+  margin: auto;
+  margin-top: 50px;
+  margin-left: 40px;
+  /* border: 1px solid white; */
+
+  /* margin-left: 100px; */
+}
+.logos-last-bar {
+  margin-bottom: 10px;
+}
+
+#page-- {
+  width: 273.43px;
+  height: 54px;
+  color: #f5f5f5;
+  justify-content: center;
+  margin: auto;
+  font-size: 12.29px;
+  margin-top: 20px;
+  color: #8987a1;
+  /* border: 1px solid white; */
+}
+.logos-last-bar p {
+  margin-top: 2px;
+  text-align: left;
+  color: #f5f5f5;
+  font-size: 12.29px;
+}
+
+.lastbar-taxt {
+  display: flex;
+}
+
+.lastbar-taxt img {
+  width: 18.43px;
+  height: 18.43px;
+}
+/* .love {
+  width: 222px;
+  height: 18px;
+  display: flex;
+  margin: auto;
+  border: 1px solid wheat;
+} */
+.love-- {
+  /* border: 1px solid wheat; */
+  font-size: 12.29;
+  color: #f5f5f5;
+}
+.love-- p {
+  margin-left: 10px;
+}
+/* .love img {
+  margin-right: 10%;
+} */
+.lastbar-seconed {
+  margin-right: 00px;
+  /* border: 1px solid white; */
+
+  margin-top: 50px;
+  color: red;
+  /* display: flex; */
+  margin: auto;
+}
+
+#btn-bar- {
+  display: flex;
+  margin-top: 50px;
+}
+
+#btn-bar {
+  /* width: 77px;
+  height: 18px; */
+  margin: 10px;
+  background-color: #2b2b2b;
+  color: #f5f5f5;
+  font-size: 12.29px;
+  border: none;
+}
+
+.lastbar-seconed button {
+  background-color: none;
+}
+
+.last-logo {
+  /* border: 1px solid black; */
+  display: flex;
+  margin: 5px;
+  margin-top: 30px;
+  justify-content: right;
+  /* justify-items: right; */
+}
+
+.last-pic {
+  width: 38.87px;
+  height: 38.87px;
+  /* justify-content: center; */
+  /* align-items: center; */
+  border-radius: 50px;
+
+  /* display: flex; */
+  /* margin: auto; */
+  margin: 10px;
+  margin-top: 20px;
+
+  /* border: 1px solid black; */
+}
+
+.last-pic img {
+  width: 38.87px;
+  height: 38.87px;
+  margin: auto;
+  border-radius: 50px;
+}

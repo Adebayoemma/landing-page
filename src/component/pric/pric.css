@@ -1,0 +1,86 @@
+.pricing {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.pricing- {
+  width: 479.27px;
+  height: 381.72px;
+  /* border: 1px solid black; */
+  margin: 50px;
+  background-color: #4e47ff;
+  border-radius: 15.36px;
+  /* display: grid; */
+  text-align: center;
+}
+
+.page- {
+  width: 479.27px;
+  height: 381.72px;
+  /* border: 1px solid white; */
+}
+
+.page- p {
+  text-align: left;
+  font-size: 10.76px;
+  /* display: flex; */
+  margin-left: 10px;
+  justify-content: left;
+  margin-left: 100px;
+}
+.page- h1 {
+  font-size: 46.08px;
+  margin-left: 100px;
+}
+
+/* .contained {
+  color: yellow;
+} */
+
+.meeting {
+  width: 297.24px;
+  height: 182.8px;
+  background-color: #2b2b2b;
+  border-radius: 15px;
+  margin-left: 100px;
+  margin-top: 45px;
+  justify-items: center;
+  align-items: center;
+  display: grid;
+}
+.meeting h3 {
+  margin-right: 90px;
+  margin-bottom: 2px;
+  font-size: 26.16px;
+  font-family: "Raleway", sans-serif;
+}
+
+.meeting button {
+  width: 257.3px;
+  height: 46.08px;
+}
+.checkbox {
+  text-align: center;
+  margin: auto;
+  padding: 2px;
+}
+.num {
+  width: 444.7px;
+  height: 97.54px;
+  display: flex;
+  text-align: left;
+  margin-left: 10px;
+  margin: auto;
+  border-radius: 10px;
+  background-color: #000000;
+
+  /* border: 1px solid black; */
+}
+.num h5 {
+  line-height: 50px;
+}
+.num h1 {
+  margin-left: 30px;
+}

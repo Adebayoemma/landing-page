@@ -1,0 +1,58 @@
+.top {
+  max-width: 1106;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  margin: 20px;
+  /* border: 1px solid black; */
+}
+
+.logos {
+  margin-left: 80px;
+}
+.logos img {
+  background-color: black;
+  color: white;
+  text-decoration: none;
+  background-color: none;
+}
+.my-btn {
+  max-width: 383.26px;
+  min-height: 52.23px;
+  display: flex;
+  justify-content: center;
+  border-radius: 15.32px;
+  background-color: rgb(27, 24, 24);
+  /* background-color: black; */
+}
+
+.my-btn button {
+  margin: 10px;
+  border: none;
+  color: white;
+  background-color: transparent;
+}
+
+.sign {
+  flex-wrap: wrap;
+  text-align: center;
+  margin-top: 4px;
+  margin-right: 80px;
+}
+
+.sign .in {
+  border: none;
+  margin: 5px;
+  background-color: #ffffff;
+}
+
+.sign .up {
+  max-width: 101.38px;
+  min-height: 36.87px;
+  gap: 5rem 3rem;
+  flex-wrap: wrap;
+  background-color: #4e47ff;
+  border-radius: 7.68px;
+  color: #ffffff;
+}
